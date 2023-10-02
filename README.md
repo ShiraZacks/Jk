@@ -1,3 +1,3 @@
-#Just kidding!!
-
-You can't unsubscribe from Chinuch! Sorry:)
+# Just kidding!!
+---
+You can't **unsubscribe** from *chinuch*! Sorry:)
